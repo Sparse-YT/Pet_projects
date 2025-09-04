@@ -13,7 +13,7 @@ public class FunnyPassword {
                if (pw == 1471) {
                 System.out.print("Hello Ash");
                } else {
-                System.out.print("System image will now eat it self");
+                System.out.print("System image will now eat itself");
                }
 
 
